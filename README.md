@@ -44,3 +44,11 @@ OR
     * Your IPhone and Computer in which is running the server must be on the same wifi 
 
 7. To stop the server from running, press the 'ctrl' key and 'c' key on your keyboard at the same time in your terminal
+
+## Contributors 
+[Morgan Lloyd](https://github.com/ShaunveerGill)
+[Daniel Choy](https://github.com/DanielChoy17)
+[Leon Feng](https://github.com/sanninglue)
+[Shaunveer Gill](https://github.com/ShaunveerGill)
+[Matthew Raju](https://github.com/wanderman12345)
+[Courtney Wei](https://github.com/cwei013)
