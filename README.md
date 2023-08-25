@@ -28,7 +28,7 @@ An app that has all the necessary resources that would make going to the gym an 
         * cd [name of folder]
 
     * Clone our Git Repo in this folder:
-        * git clone https://github.com/ShaunveerGill/Gym-Essentials.git
+        * git clone [https://github.com/morgoob/Gym-Essentials.git](https://github.com/morgoob/Gym-Essentials.git)
     
 ### Start here if you have done eveything before this and you're currently on the App's directory 
 5. Start the Server by running the following command:
