@@ -18,7 +18,7 @@ An app that has all the necessary resources that would make going to the gym an 
 2. Install Node.js (LTS Version)
     * https://nodejs.org/en
 
-3. Open a new Terminal on your VS Code IDE
+3. Open a new Terminal on your VSCode IDE
 
 4. Enter the following commands in your terminal:
     * Create a new expo app folder: 
